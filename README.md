@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Somaiieh Yousefi 👋
 
-<!--
-**venus-arman/venus-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML | Data Science | Software Automation
 
-Here are some ideas to get you started:
+I'm an engineer with a background in electrical engineering and experience spanning manufacturing systems, data analytics, software development, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work as a Manufacturing Systems Analyst, helping improve system reliability, troubleshoot technical issues, and support manufacturing system integrations.
+
+I'm interested in building practical, data-driven solutions that connect machine learning, software engineering, and real-world problems.
+
+🛠️ Technical Skills
+
+Programming: Python, SQL, C#
+
+AI & Data Science: Machine Learning, Data Analysis, Data Visualization
+
+Software & Automation: REST APIs, System Integration, Automated Testing
+
+Tools: Git, GitHub, Power BI, Excel
+
+🚀 Projects
+
+I'm building a portfolio of practical projects in AI/ML, data science, and software automation.
+
+Machine Learning: Predictive modeling and model evaluation.
+
+Data Analytics: Exploratory data analysis and data visualization.
+
+Software Automation: Python tools for data processing, validation, and workflow improvement.
+
+Project links will be added as the repositories are ready.
+
+🌱 Currently Learning
+
+Developing reliable and maintainable software applications
+
+Applying machine learning to practical problems
+
+Improving software testing and automation practices
+
+🤝 Connect with Me
+
+My LinkedIn Profile: https://www.linkedin.com/in/somaiieh-yousefi-13155731/
+
+My Repositories: https://github.com/venus-arman
